@@ -1,7 +1,7 @@
-# [Your Brand Name]
+# [Aperture-Labs]
 
 ## Live Demo
-[Deployed URL]
+[nairobiangoon.shop]
 
 ## Project Overview
 [Brief description of your brand and website purpose]
